@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '39525'
     url: http://www.gutenberg.org/2009/agents/39525
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38552#Select-List-of-Books-...-Relating-to-the-Far-East
 gutenberg_issued: '2012-01-11'
 gutenberg_type: Text
 identifiers:
