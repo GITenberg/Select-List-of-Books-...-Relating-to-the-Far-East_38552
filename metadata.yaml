@@ -1,0 +1,36 @@
+_repo: Select-List-of-Books-...-Relating-to-the-Far-East_38552
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Library of Congress. Division of Bibliography
+    alias: United States. Library of Congress. Division of Bibliography
+    gutenberg_agent_id: '38898'
+    url: http://www.gutenberg.org/2009/agents/38898
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Griffin, Appleton P. C. (Appleton Prentiss Clark)
+    aliases:
+    - Griffin, A. P. C. (Appleton Prentiss Clark)
+    - Griffin, Appleton Prentiss Clark
+    birthdate: 1852
+    deathdate: 1926
+    gutenberg_agent_id: '39525'
+    url: http://www.gutenberg.org/2009/agents/39525
+description: ''
+gutenberg_issued: '2012-01-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38552'
+  lccn: '04033374'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Z'
+- !lcsh 'East Asia -- Bibliography'
+title: Select List of Books ... Relating to the Far East
+url: http://www.gutenberg.org/ebooks/38552
